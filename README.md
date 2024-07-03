@@ -12,6 +12,8 @@ pip install -r requirements.txt
 
 ## running instruction
 
+- required: create a `.env` file and ensure that it contains a valid `OPENAI_API_KEY`
+
 ```bash
 python -m main
 ```
